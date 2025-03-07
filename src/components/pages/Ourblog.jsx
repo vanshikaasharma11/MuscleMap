@@ -16,48 +16,42 @@ export default function Ourblog() {
     <nav className="canvas-menu mobile-menu">
       <ul>
         <li>
-          <Link to="./index.html">Home</Link>
+          <Link to="/index.html">Home</Link>
         </li>
         <li>
-          <Link to="./about-us.html">About Us</Link>
+          <Link to="/about-us.html">About Us</Link>
         </li>
         <li>
-          <Link to="./classes.html">Classes</Link>
+          <Link to="/classes.html">Classes</Link>
         </li>
         <li>
-          <Link to="./services.html">Services</Link>
+          <Link to="/services.html">Services</Link>
         </li>
         <li>
-          <Link to="./team.html">Our Team</Link>
+          <Link to="/team.html">Our Team</Link>
         </li>
         <li>
           <Link to="#">Pages</Link>
           <ul className="dropdown">
             <li>
-              <Link to="./about.html">About us</Link>
+              <Link to="/about.html">About us</Link>
             </li>
             <li>
-              <Link to="./class-timetable.html">Classes timetable</Link>
+              <Link to="/class-timetable.html">Classes timetable</Link>
             </li>
             <li>
-              <Link to="./bmi-calculator.html">Bmi calculate</Link>
+              <Link to="/bmi-calculator.html">Bmi calculate</Link>
             </li>
             <li>
-              <Link to="./team.html">Our team</Link>
+              <Link to="/team.html">Our team</Link>
             </li>
             <li>
-              <Link to="./gallery.html">Gallery</Link>
-            </li>
-            <li>
-              <Link to="./blog.html">Our blog</Link>
-            </li>
-            <li>
-              <Link to="./404.html">404</Link>
+              <Link to="/blog.html">Our blog</Link>
             </li>
           </ul>
         </li>
         <li>
-          <Link to="./contact.html">Contact</Link>
+          <Link to="/contact.html">Contact</Link>
         </li>
       </ul>
     </nav>
@@ -182,7 +176,7 @@ export default function Ourblog() {
             </div>
             <div className="bi-text">
               <h5>
-                <a href="./blog-details.html">
+                <a href="/blog-details.html">
                   Vegan White Peach Mug Cobbler With Cardam Vegan White Peach
                   Mug Cobbler...
                 </a>
@@ -205,7 +199,7 @@ export default function Ourblog() {
             </div>
             <div className="bi-text">
               <h5>
-                <a href="./blog-details.html">
+                <a href="/blog-details.html">
                   Vegan White Peach Mug Cobbler With Cardam Vegan White Peach
                   Mug Cobbler...
                 </a>
@@ -275,7 +269,7 @@ export default function Ourblog() {
                 <img src="img copy/letest-blog/latest-1.jpg"alt="" />
                 <div className="ll-text">
                   <h5>
-                    <a href="./blog-details.html">
+                    <a href="/blog-details.html">
                       This Japanese Way of Making Iced Coffee Is a Game...
                     </a>
                   </h5>
